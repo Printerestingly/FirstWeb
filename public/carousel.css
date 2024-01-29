@@ -1,0 +1,47 @@
+#exchange-program{
+    height: 750px;
+    background-color: gray;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 10;
+}
+.myExchange{
+    color: white;
+    text-align: center;
+}
+.carousel-item{
+    height: 520px;
+    width: 100%;
+    background-color: wheat;
+}
+
+.carousel-image-1{
+    background-image: url(photos/argflag.jpg);
+    background-size: cover;
+}
+.carousel-image-2{
+    background-image: url(photos/218844642_351409066361327_8991892076977315940_n.jpg);
+    background-size: cover;
+}
+.carousel-image-3{
+    background-image: url(photos/218334303_877642123107631_7102217175050697388_n.jpg);
+    background-size: cover;
+}
+.carousel-image-4{
+    background-image: url(photos/375168.jpg);
+    background-size: cover;
+}
+.argtext{
+    background-color: lightcyan;
+    color: indigo;
+    border-radius: 20px;
+    font-size: 1.5rem;
+    padding: 5px;
+}
+
+.myExchange{
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+    height: auto;
+}
